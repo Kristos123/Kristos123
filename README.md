@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Kristos123
-- 👀 I’m interested in this project because I think that it will shoot in the future
-- 🌱 I’m currently learning  English and Spanish
-- 💞️ I’m looking to collaborate on Bit.Country
-- 📫 How to reach me kristiii527@gmail.com or name telegram @MisMarple
-
-<!---
-Kristos123/Kristos123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a marketer, as well as a creative SMM content manager and a UI/UX developer. I can create different content for the project and use it to reach new audiences. Employees call me a "digital monster" because my work includes - Content plan, Analytics and hypothesis testing, Texts, Design, Visualization and creativity.
+I have been working in the field of cryptocurrency for 2 years. At the moment I devote all my free time to this direction.
+I do not stand still, I try not to burn out and constantly learn new things.
